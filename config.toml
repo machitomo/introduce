@@ -1,0 +1,26 @@
+baseURL = "http://example.org/"
+languageCode = "en-jp"
+title = "「まーちん」の生態記録史"
+theme = "m10c"
+avatar="/static/avatar.jpg"
+
+[params]
+ author = "Tomoya"
+ description = "「まーちん」という個体について、記録しておく。"
+  [[params.social]]
+    name = "github"
+    url = "https://github.com/machitomo"
+  [[params.social]]
+    name = "twitter"
+    url = "https://twitter.com/machin211"
+  [[params.social]]
+    name = "calendar"
+    url = "/post/i_am"
+
+# Green theme
+[params.style]
+darkestColor = "#315659"
+darkColor = "#253031"
+primaryColor = "#dad865"
+lightColor = "#96a879"
+lightestColor = "#fff"
