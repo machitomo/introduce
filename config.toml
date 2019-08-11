@@ -15,7 +15,7 @@ avatar="/static/avatar.jpg"
     url = "https://twitter.com/machin211"
   [[params.social]]
     name = "calendar"
-    url = "/post/i_am"
+    url = "/post/intro"
 
 # Green theme
 [params.style]
