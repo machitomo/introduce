@@ -130,6 +130,7 @@ draft: false
     https://docs.google.com/presentation/d/1ChFvgyxoqlA2eX4bwse1VC9vcFpiFYtFSVV1YqbBzt4/edit#slide=id.p
 - 感想  
   自分は上っ面のアプリ開発しかしていなかったので、こういう世界があることが知れたことが最大の成果。もっと下層を意識するいい機会になった。
+  
 ---
 #### Spring Developer のための コンテナ入門
 
@@ -194,6 +195,7 @@ draft: false
 - 感想  
   このセッションも自分にはまだ早かった（知識不足）  
   ただ、通信方法の選定方法によってここまで、システムに影響を与えることができるのは楽しい。
+  
 ---
 #### Spring Social でソーシャルログインを実装する
 
