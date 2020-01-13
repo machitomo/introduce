@@ -40,7 +40,7 @@ BQから特手のテーブルのスキーマファイルを抜く方法は下記
 
 YYYYMMDDの日にデータを挿入する。
 
-※別のテーブル移動する場合の例
+※別のテーブル移動する場合の例  
 > 例 : bq query --use_legacy_sql=false --destination_table 'data_set.table_name$20010101' 'SELECT * FROM jp_data_set.jp_table_subsub';
 ---
 
